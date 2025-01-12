@@ -183,7 +183,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         <div
           data-scroll
           data-scroll-direction="horizontal"
-          data-scroll-speed="6"
+          data-scroll-speed="-6"
           className="diagonal-item"
         >
           <div className="diagonal-content">Bergerak Menyerong</div>
@@ -192,7 +192,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         <div
           data-scroll
           data-scroll-direction="horizontal"
-          data-scroll-speed="-6"
+          data-scroll-speed="6"
           className="diagonal-item"
         >
   <div className="diagonal-content">Bergerak Menyerong Berlawanan</div>
