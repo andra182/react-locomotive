@@ -78,7 +78,7 @@ Inisialisasi Locomotive Scroll di dalam komponen React Anda.
 ### File `App.jsx`
 
 ```jsx
-import React, { useEffect } from "react";
+import React from "react";
 import { useState, useEffect, useRef } from "react";
 import "./App.css";
 import LocomotiveScroll from "locomotive-scroll";
